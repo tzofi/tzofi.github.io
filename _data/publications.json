@@ -17,6 +17,7 @@
 		"date": "2019",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Morales_Feature_Forwarding_for_Efficient_Single_Image_Dehazing_CVPRW_2019_paper.html"}
-		]
+		],
+                "notes": "* Equal Contribution"
 	}
 ]
