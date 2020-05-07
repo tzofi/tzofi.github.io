@@ -3,21 +3,34 @@
 		"id": "sslforaxons2020",
 		"title": "Self-Supervised Feature Extraction for 3D Axon Segmentation",
 		"authors": ["Tzofi Klinghoffer", "Peter Morales", "Young-Gyun Park", "Nicholas Evans", "Kwanghun Chung", "Laura Brattain"],
-		"venue": "arXiv preprint",
-		"date": "2020-04-20",
+		"venue": "arXiv",
+		"date": "2020",
 		"links" : [
-			{"type": "link", "name": "arXiv", "target": "https://arxiv.org/abs/2004.09629"}
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2004.09629"}
 		]
 	},
 	{
 		"id": "dehazing2019",
 		"title": "Feature Forwarding for Efficient Single Image Dehazing",
 		"authors": ["Peter Morales*", "Tzofi Klinghoffer*", "Seung Jae Lee"],
-		"venue": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops",
+		"venue": "CVPRW (NTIRE)",
 		"date": "2019",
 		"links" : [
-			{"type": "link", "name": "paper", "target": "http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Morales_Feature_Forwarding_for_Efficient_Single_Image_Dehazing_CVPRW_2019_paper.html"}
+			{"type": "link", "name": "Paper", "target": "http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Morales_Feature_Forwarding_for_Efficient_Single_Image_Dehazing_CVPRW_2019_paper.html"},
+			{"type": "link", "name": "Code", "target": "https://github.com/pmm09c/ntire-dehazing"}
 		],
                 "notes": "* Equal Contribution"
+	},
+	{
+		"id": "ams2018",
+		"title": "Applying Image Recognition to Enhance Fisheries Management Capabilities",
+		"authors": ["Tzofi Klinghoffer", "Caleb Perez", "Robert Vincent", "Paris Perdikaris", "Chryssostomos Chryssostomidis"],
+		"venue": "AMS, AI and its Applications to Environmental Sciences",
+		"date": "2018",
+                "award": "Student Research Award",
+		"links" : [
+			{"type": "link", "name": "Abstract", "target": "https://ams.confex.com/ams/98Annual/webprogram/Paper333211.html"},
+			{"type": "link", "name": "Slides", "target": "https://ams.confex.com/ams/98Annual/webprogram/Handout/Paper333211/AMS%20Presentation.pdf"}
+		]
 	}
 ]

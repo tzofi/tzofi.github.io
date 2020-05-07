@@ -46,7 +46,7 @@ layout: default
 
 				<div class='pubauthors'>
 					{% for author in pub.authors %}
-						{% if forloop.last %}{% unless forloop.first %} and {% endunless %}{% endif %}
+                                        <!-- {% if forloop.last %}{% unless forloop.first %} and {% endunless %}{% endif %} -->
 						{% if site.data.people[author] %}
 							<a class='pubauthor' target='_blank' href='{{ site.data.people[author] }}'>
 								{{ author }}{% if forloop.last == false %}{% unless forloop.length == 2 %}, {% endunless %}{% endif %}
@@ -59,10 +59,10 @@ layout: default
 
 				<div class='pubnotes'>{{ pub.notes }}</div>
 
-				<div class='pubvenue'>{{ pub.venue }}</div>
+                                <div class='pubvenue', style="font-family:Arial Narrow">{{ pub.venue }}, {{pub.date}}</div>
 
 				{% for link in pub.links %}
-					{% if forloop.first == false %} | {% endif %}
+					{% if forloop.first == false %} {% endif %}
 
 					{% capture lname %}
 						{% if link.type == 'link' %}
@@ -80,7 +80,7 @@ layout: default
 						{% endif %}
 					{% endcapture %}
 
-					<a class='publink' target='_blank' href='{{ ltarget }}'>{{ lname }}</a>
+					<a class='publink' target='_blank' href='{{ ltarget }}'>[{{ lname }}]</a>
 				{% endfor %}
 
 				{% if pub.award %}
