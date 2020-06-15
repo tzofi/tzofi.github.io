@@ -3,10 +3,11 @@
 		"id": "sslforaxons2020",
 		"title": "Self-Supervised Feature Extraction for 3D Axon Segmentation",
 		"authors": ["Tzofi Klinghoffer", "Peter Morales", "Young-Gyun Park", "Nicholas Evans", "Kwanghun Chung", "Laura Brattain"],
-		"venue": "arXiv",
+		"venue": "CVPRW (CVMI)",
 		"date": "2020",
 		"links" : [
-			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2004.09629"}
+			{"type": "link", "name": "Paper", "target": "http://openaccess.thecvf.com/content_CVPRW_2020/papers/w57/Klinghoffer_Self-Supervised_Feature_Extraction_for_3D_Axon_Segmentation_CVPRW_2020_paper.pdf"},
+			{"type": "link", "name": "Code", "target": "https://github.com/tzofi/ssl-for-axons"}
 		]
 	},
 	{
