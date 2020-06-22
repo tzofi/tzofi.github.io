@@ -13,6 +13,25 @@ layout: default
 	</p>
 </div>
 
+
+<div class='mainitem' id='news'>
+	<div class='mainheader'>News</div>
+
+	{% assign sortednews = site.news | sort: 'date','last' | reverse %}
+
+	{% for newsitem in sortednews limit: 5 %}
+
+		<div class='row newsitem'>
+			<div class='col-md-3 col-lg-2 newsdate'>{{ newsitem.date | date: "%B %Y" }}</div>
+			<div class='col-md-9 col-lg-10 newscontent'>{{ newsitem.content }}</div>
+		</div>
+
+	{% endfor %}
+
+	<a href='newsarchive.html'>Archive</a>
+
+</div>
+
 <div class='mainitem' id='publications'> 
 
 	<div class='mainheader'>Publications</div>
@@ -93,5 +112,21 @@ layout: default
 	{% endfor %}
 
 	</div>
+
+</div>
+
+
+<div class='mainitem' id='awards'>
+	<div class='mainheader'>Honors &amp; Awards</div>
+
+	{% assign sortedawards = site.awards | sort: 'date','last' | reverse %}
+
+	{% for awarditem in sortedawards limit: 500 %}
+
+            {{awarditem.date | date: "%B %Y"}} &mdash; {{awarditem.content}}               
+            <br>
+
+
+	{% endfor %}
 
 </div>
