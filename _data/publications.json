@@ -1,5 +1,13 @@
 [
 	{
+		"id": "3dunets2020",
+		"title": "Annotation-Efficient 3D U-Nets for Brain Plasticity Mapping",
+		"authors": ["Lars Gjesteby", "Tzofi Klinghoffer", "Meagan Ash", "Matthew Melton", "Kevin Otto", "Damon Lamb", "Sara Nicole Burke", "Laura Brattain"],
+		"venue": "IEEE Symposium on Biomedical Imaging (ISBI)",
+		"date": "2020",
+                "notes": "Under Review"
+	},
+	{
 		"id": "sslforaxons2020",
 		"title": "Self-Supervised Feature Extraction for 3D Axon Segmentation",
 		"authors": ["Tzofi Klinghoffer", "Peter Morales", "Young-Gyun Park", "Nicholas Evans", "Kwanghun Chung", "Laura Brattain"],
