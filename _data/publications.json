@@ -1,18 +1,16 @@
 [
 	{
-		"id": "pdrs2022",
-		"title": "Physically Disentangled Representations",
-		"authors": ["Tzofi Klinghoffer*", "Kushagra Tiwary*", "Arkadiusz Balata", "Vivek Sharma", "Ramesh Raskar"],
-		"venue": "Coming soon!",
-		"date": "2022",
-        "notes": "* Equal Contribution"
-	},
-	{
 		"id": "shadows2022",
 		"title": "Towards Learning Neural Representations from Shadows",
 		"authors": ["Kushagra Tiwary*", "Tzofi Klinghoffer*", "Ramesh Raskar"],
-		"venue": "Coming soon!",
-		"date": "2022",
+		"venue": "Coming soon! (2022)",
+        "notes": "* Equal Contribution"
+	},
+	{
+		"id": "pdrs2022",
+		"title": "Physically Disentangled Representations",
+		"authors": ["Tzofi Klinghoffer*", "Kushagra Tiwary*", "Arkadiusz Balata", "Vivek Sharma", "Ramesh Raskar"],
+		"venue": "Coming soon! (2022)",
         "notes": "* Equal Contribution"
 	},
 	{
