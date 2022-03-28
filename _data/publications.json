@@ -29,7 +29,7 @@
 		"id": "sslforaxons2020",
 		"title": "Self-Supervised Feature Extraction for 3D Axon Segmentation",
 		"authors": ["Tzofi Klinghoffer", "Peter Morales", "Young-Gyun Park", "Nicholas Evans", "Kwanghun Chung", "Laura Brattain"],
-		"venue": "CVPRW (CVMI)",
+		"venue": "CVPR, Workshop on Computer Vision for Microscopy Image Analysis (CVMI)",
 		"date": "2020",
 		"links" : [
 			{"type": "link", "name": "Paper", "target": "http://openaccess.thecvf.com/content_CVPRW_2020/papers/w57/Klinghoffer_Self-Supervised_Feature_Extraction_for_3D_Axon_Segmentation_CVPRW_2020_paper.pdf"},
@@ -40,7 +40,7 @@
 		"id": "dehazing2019",
 		"title": "Feature Forwarding for Efficient Single Image Dehazing",
 		"authors": ["Peter Morales*", "Tzofi Klinghoffer*", "Seung Jae Lee"],
-		"venue": "CVPRW (NTIRE)",
+		"venue": "CVPR, Workshop on New Trends in Image Restoration and Enhancement (NTIRE)",
 		"date": "2019",
 		"links" : [
 			{"type": "link", "name": "Paper", "target": "http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Morales_Feature_Forwarding_for_Efficient_Single_Image_Dehazing_CVPRW_2019_paper.html"},
