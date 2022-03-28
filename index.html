@@ -81,7 +81,11 @@ layout: default
 
 				<div class='pubnotes'>{{ pub.notes }}</div>
 
+                            {% if pub.date=="" %}
+                                <div class='pubvenue', style="font-family:Arial Narrow">{{ pub.venue }}</div>
+                            {% else %}
                                 <div class='pubvenue', style="font-family:Arial Narrow">{{ pub.venue }}, {{pub.date}}</div>
+                            {% endif %}
 
 				{% for link in pub.links %}
 					{% if forloop.first == false %} {% endif %}
