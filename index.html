@@ -37,9 +37,11 @@ layout: default
 
 	<div class='mainheader'>Publications</div>
 
-	{% assign sorted_pubs = site.data.publications | sort: 'date' | reverse %}
+	<!--
+    {% assign sorted_pubs = site.data.publications | sort: 'date' | reverse %}
+    -->
 
-	{% for pub in sorted_pubs %}
+	{% for pub in site.data.publications %}
 
 		<div class='row pub'>
 
