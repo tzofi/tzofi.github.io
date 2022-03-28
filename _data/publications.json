@@ -1,5 +1,21 @@
 [
 	{
+		"id": "pdrs2022",
+		"title": "Physically Disentangled Representations",
+		"authors": ["Tzofi Klinghoffer*", "Kushagra Tiwary*", "Arkadiusz Balata", "Vivek Sharma", "Ramesh Raskar"],
+		"venue": "Coming soon!",
+		"date": "2022",
+        "notes": "* Equal Contribution"
+	},
+	{
+		"id": "shadows2022",
+		"title": "Towards Learning Neural Representations from Shadows",
+		"authors": ["Kushagra Tiwary*", "Tzofi Klinghoffer*", "Ramesh Raskar"],
+		"venue": "Coming soon!",
+		"date": "2022",
+        "notes": "* Equal Contribution"
+	},
+	{
 		"id": "3dunets2020",
 		"title": "Annotation-Efficient 3D U-Nets for Brain Plasticity Network Mapping",
 		"authors": ["Lars Gjesteby", "Tzofi Klinghoffer", "Meagan Ash", "Matthew Melton", "Kevin Otto", "Damon Lamb", "Sara Burke", "Laura Brattain"],
