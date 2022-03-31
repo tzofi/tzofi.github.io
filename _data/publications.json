@@ -11,8 +11,11 @@
 		"id": "shadows2022",
 		"title": "Towards Learning Neural Representations from Shadows",
 		"authors": ["Kushagra Tiwary*", "Tzofi Klinghoffer*", "Ramesh Raskar"],
-		"venue": "Coming soon!",
-		"date": "",
+		"venue": "arXiv",
+		"date": "2022",
+		"links" : [
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/pdf/2203.15946.pdf"}
+		],
         "notes": "* Equal Contribution"
 	},
 	{
