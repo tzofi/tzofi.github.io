@@ -3,8 +3,12 @@
 		"id": "pdrs2022",
 		"title": "Physically Disentangled Representations",
 		"authors": ["Tzofi Klinghoffer*", "Kushagra Tiwary*", "Arkadiusz Balata", "Vivek Sharma", "Ramesh Raskar"],
-		"venue": "Coming soon!",
-		"date": "",
+		"venue": "arXiv",
+		"date": "2022",
+		"links" : [
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/pdf/2204.05281.pdf"},
+			{"type": "link", "name": "Code", "target": "https://github.com/tzofi/physically-disentangled-representations"}
+		],
         "notes": "* Equal Contribution"
 	},
 	{
