@@ -1,5 +1,13 @@
 [
 	{
+		"id": "e2ereview2022",
+		"title": "Physics vs. Learned Priors: Rethinking Camera and Algorithm Design for Task-Specific Imaging",
+		"authors": ["Tzofi Klinghoffer*", "Siddharth Somasundaram*", "Kushagra Tiwary*", "Ramesh Raskar"],
+		"venue": "Coming soon!",
+		"date": "",
+        "notes": "* Equal Contribution"
+	},
+	{
 		"id": "pdrs2022",
 		"title": "Physically Disentangled Representations",
 		"authors": ["Tzofi Klinghoffer*", "Kushagra Tiwary*", "Arkadiusz Balata", "Vivek Sharma", "Ramesh Raskar"],
