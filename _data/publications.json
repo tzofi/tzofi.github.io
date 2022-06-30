@@ -3,7 +3,7 @@
 		"id": "e2ereview2022",
 		"title": "Physics vs. Learned Priors: Rethinking Camera and Algorithm Design for Task-Specific Imaging",
 		"authors": ["Tzofi Klinghoffer*", "Siddharth Somasundaram*", "Kushagra Tiwary*", "Ramesh Raskar"],
-		"venue": "arXiv",
+		"venue": "International Conference on Computational Photography (ICCP)",
 		"date": "2022",
 		"links" : [
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/pdf/2204.09871.pdf"}
