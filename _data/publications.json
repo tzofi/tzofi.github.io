@@ -26,7 +26,7 @@
 		"id": "shadows2022",
 		"title": "Towards Learning Neural Representations from Shadows",
 		"authors": ["Kushagra Tiwary*", "Tzofi Klinghoffer*", "Ramesh Raskar"],
-		"venue": "arXiv",
+		"venue": "European Conference on Computer Vision (ECCV)",
 		"date": "2022",
 		"links" : [
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/pdf/2203.15946.pdf"}
