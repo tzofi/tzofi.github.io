@@ -1,5 +1,17 @@
 [
 	{
+		"id": "glossyobjects2022",
+		"title": "ORCa: Glossy Objects as Radiance-Field Cameras",
+		"authors": ["Kushagra Tiwary*", "Akshat Dave*", "Nikhil Behari", "Tzofi Klinghoffer", "Ashok Veeraraghavan", "Ramesh Raskar"],
+		"venue": "arXiv",
+		"date": "2022",
+		"links" : [
+            {"type": "link", "name": "Project Page", "target": "https://ktiwary2.github.io/objectsascam/"},
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2212.04531"}
+		],
+        "notes": "* Equal Contribution"
+	},
+	{
 		"id": "e2ereview2022",
 		"title": "Physics vs. Learned Priors: Rethinking Camera and Algorithm Design for Task-Specific Imaging",
 		"authors": ["Tzofi Klinghoffer*", "Siddharth Somasundaram*", "Kushagra Tiwary*", "Ramesh Raskar"],
