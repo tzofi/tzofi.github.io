@@ -3,8 +3,8 @@
 		"id": "glossyobjects2022",
 		"title": "ORCa: Glossy Objects as Radiance-Field Cameras",
 		"authors": ["Kushagra Tiwary*", "Akshat Dave*", "Nikhil Behari", "Tzofi Klinghoffer", "Ashok Veeraraghavan", "Ramesh Raskar"],
-		"venue": "arXiv",
-		"date": "2022",
+		"venue": "CVPR",
+		"date": "2023",
 		"links" : [
             {"type": "link", "name": "Project Page", "target": "https://ktiwary2.github.io/objectsascam/"},
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2212.04531"}
