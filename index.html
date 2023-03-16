@@ -121,19 +121,3 @@ layout: default
 	</div>
 
 </div>
-
-
-<div class='mainitem' id='awards'>
-	<div class='mainheader'>Honors &amp; Awards</div>
-
-	{% assign sortedawards = site.awards | sort: 'date','last' | reverse %}
-
-	{% for awarditem in sortedawards limit: 500 %}
-
-            {{awarditem.date | date: "%B %Y"}} &mdash; {{awarditem.content}}               
-            <br>
-
-
-	{% endfor %}
-
-</div>
