@@ -39,6 +39,10 @@ a, a:hover {
 
 /*---------------------------------------------------------------*/
 
+.sidebar {
+  margin: 10px;
+  padding: 20px;
+}
 
 .sidebaritem {
 	margin-bottom: 15px;
