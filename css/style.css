@@ -3,6 +3,10 @@ body {
 	font-size: 15px;
 }
 
+html,body{
+    overflow-x: hidden;
+}
+
 .post {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 18px;
