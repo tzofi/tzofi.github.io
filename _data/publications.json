@@ -22,8 +22,7 @@
 		"date": "2023",
 		"links" : [
             {"type": "link", "name": "Project Page", "target": "https://ktiwary2.github.io/objectsascam/"},
-			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2212.04531"},
-			{"type": "link", "name": "MIT News", "target": "https://news.mit.edu/2023/using-reflections-shiny-objects-camera-0510"}
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2212.04531"}
 		],
         "notes": "* Equal Contribution"
 	},
