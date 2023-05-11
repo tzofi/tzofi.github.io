@@ -2,7 +2,7 @@
 	{
 		"id": "diser2023",
 		"title": "DISeR: Designing Imaging Systems with Reinforcement Learning",
-		"authors": ["Tzofi Klinghoffer*", "Kushagra Tiwary*", "Nikhil Behari", "Bhavya Agrawalla", "Ramesh Raskar"],
+		"authors": ["<b>Tzofi Klinghoffer*</b>", "Kushagra Tiwary*", "Nikhil Behari", "Bhavya Agrawalla", "Ramesh Raskar"],
 		"venue": "Submitted",
 		"date": "2023",
         "notes": "* Equal Contribution"
