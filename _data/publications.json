@@ -2,7 +2,7 @@
 	{
 		"id": "diser2023",
 		"title": "DISeR: Designing Imaging Systems with Reinforcement Learning",
-		"authors": ["<b>Tzofi Klinghoffer*</b>", "Kushagra Tiwary*", "Nikhil Behari", "Bhavya Agrawalla", "Ramesh Raskar"],
+		"authors": ["<b>Tzofi Klinghoffer</b>*", "Kushagra Tiwary*", "Nikhil Behari", "Bhavya Agrawalla", "Ramesh Raskar"],
 		"venue": "Submitted",
 		"date": "2023",
         "notes": "* Equal Contribution"
@@ -10,14 +10,14 @@
 	{
 		"id": "viewpoints2023",
 		"title": "Towards Viewpoint Robustness in Bird's Eye View Segmentation",
-		"authors": ["Tzofi Klinghoffer", "Jonah Philion", "Wenzheng Chen", "Or Litany", "Zan Gojcic", "Jungseock Joo ", "Ramesh Raskar", "Sanja Fidler", "Jose Alvarez"],
+		"authors": ["<b>Tzofi Klinghoffer</b>", "Jonah Philion", "Wenzheng Chen", "Or Litany", "Zan Gojcic", "Jungseock Joo ", "Ramesh Raskar", "Sanja Fidler", "Jose Alvarez"],
 		"venue": "Submitted",
 		"date": "2023"
 	},
 	{
 		"id": "glossyobjects2022",
 		"title": "ORCa: Glossy Objects as Radiance-Field Cameras",
-		"authors": ["Kushagra Tiwary*", "Akshat Dave*", "Nikhil Behari", "Tzofi Klinghoffer", "Ashok Veeraraghavan", "Ramesh Raskar"],
+		"authors": ["Kushagra Tiwary*", "Akshat Dave*", "Nikhil Behari", "<b>Tzofi Klinghoffer</b>", "Ashok Veeraraghavan", "Ramesh Raskar"],
 		"venue": "CVPR",
 		"date": "2023",
 		"links" : [
@@ -31,7 +31,7 @@
 	{
 		"id": "e2ereview2022",
 		"title": "Physics vs. Learned Priors: Rethinking Camera and Algorithm Design for Task-Specific Imaging",
-		"authors": ["Tzofi Klinghoffer*", "Siddharth Somasundaram*", "Kushagra Tiwary*", "Ramesh Raskar"],
+		"authors": ["<b>Tzofi Klinghoffer</b>*", "Siddharth Somasundaram*", "Kushagra Tiwary*", "Ramesh Raskar"],
 		"venue": "International Conference on Computational Photography (ICCP)",
 		"date": "2022",
 		"links" : [
@@ -42,7 +42,7 @@
 	{
 		"id": "shadows2022",
 		"title": "Towards Learning Neural Representations from Shadows",
-		"authors": ["Kushagra Tiwary*", "Tzofi Klinghoffer*", "Ramesh Raskar"],
+		"authors": ["Kushagra Tiwary*", "<b>Tzofi Klinghoffer</b>*", "Ramesh Raskar"],
 		"venue": "European Conference on Computer Vision (ECCV)",
 		"date": "2022",
 		"links" : [
@@ -55,7 +55,7 @@
 	{
 		"id": "pdrs2022",
 		"title": "Physically Disentangled Representations",
-		"authors": ["Tzofi Klinghoffer*", "Kushagra Tiwary*", "Arkadiusz Balata", "Vivek Sharma", "Ramesh Raskar"],
+		"authors": ["<b>Tzofi Klinghoffer</b>*", "Kushagra Tiwary*", "Arkadiusz Balata", "Vivek Sharma", "Ramesh Raskar"],
 		"venue": "arXiv",
 		"date": "2022",
 		"links" : [
@@ -67,7 +67,7 @@
 	{
 		"id": "3dunets2020",
 		"title": "Annotation-Efficient 3D U-Nets for Brain Plasticity Network Mapping",
-		"authors": ["Lars Gjesteby", "Tzofi Klinghoffer", "Meagan Ash", "Matthew Melton", "Kevin Otto", "Damon Lamb", "Sara Burke", "Laura Brattain"],
+		"authors": ["Lars Gjesteby", "<b>Tzofi Klinghoffer</b>", "Meagan Ash", "Matthew Melton", "Kevin Otto", "Damon Lamb", "Sara Burke", "Laura Brattain"],
 		"venue": "IEEE Symposium on Biomedical Imaging (ISBI)",
 		"date": "2021",
 		"links" : [
@@ -77,7 +77,7 @@
 	{
 		"id": "sslforaxons2020",
 		"title": "Self-Supervised Feature Extraction for 3D Axon Segmentation",
-		"authors": ["Tzofi Klinghoffer", "Peter Morales", "Young-Gyun Park", "Nicholas Evans", "Kwanghun Chung", "Laura Brattain"],
+		"authors": ["<b>Tzofi Klinghoffer</b>", "Peter Morales", "Young-Gyun Park", "Nicholas Evans", "Kwanghun Chung", "Laura Brattain"],
 		"venue": "CVPR, Workshop on Computer Vision for Microscopy Image Analysis (CVMI)",
 		"date": "2020",
 		"links" : [
@@ -88,7 +88,7 @@
 	{
 		"id": "dehazing2019",
 		"title": "Feature Forwarding for Efficient Single Image Dehazing",
-		"authors": ["Peter Morales*", "Tzofi Klinghoffer*", "Seung Jae Lee"],
+		"authors": ["Peter Morales*", "<b>Tzofi Klinghoffer</b>*", "Seung Jae Lee"],
 		"venue": "CVPR, Workshop on New Trends in Image Restoration and Enhancement (NTIRE)",
 		"date": "2019",
 		"links" : [
@@ -100,7 +100,7 @@
 	{
 		"id": "ams2018",
 		"title": "Applying Image Recognition to Enhance Fisheries Management Capabilities",
-		"authors": ["Tzofi Klinghoffer", "Caleb Perez", "Robert Vincent", "Paris Perdikaris", "Chryssostomos Chryssostomidis"],
+		"authors": ["<b>Tzofi Klinghoffer</b>", "Caleb Perez", "Robert Vincent", "Paris Perdikaris", "Chryssostomos Chryssostomidis"],
 		"venue": "AMS, AI and its Applications to Environmental Sciences",
 		"date": "2018",
                 "award": "Student Research Award",
