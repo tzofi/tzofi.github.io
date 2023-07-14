@@ -3,7 +3,7 @@
 		"id": "diser2023",
 		"title": "DISeR: Designing Imaging Systems with Reinforcement Learning",
 		"authors": ["<b>Tzofi Klinghoffer</b>*", "Kushagra Tiwary*", "Nikhil Behari", "Bhavya Agrawalla", "Ramesh Raskar"],
-		"venue": "Submitted",
+		"venue": "Accepted to ICCV",
 		"date": "2023",
         "notes": "* Equal Contribution"
 	},
@@ -11,7 +11,7 @@
 		"id": "viewpoints2023",
 		"title": "Towards Viewpoint Robustness in Bird's Eye View Segmentation",
 		"authors": ["<b>Tzofi Klinghoffer</b>", "Jonah Philion", "Wenzheng Chen", "Or Litany", "Zan Gojcic", "Jungseock Joo ", "Ramesh Raskar", "Sanja Fidler", "Jose Alvarez"],
-		"venue": "Submitted",
+		"venue": "Accepted to ICCV",
 		"date": "2023"
 	},
 	{
