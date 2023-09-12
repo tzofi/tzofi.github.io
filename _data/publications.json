@@ -13,6 +13,10 @@
 		"authors": ["<b>Tzofi Klinghoffer</b>", "Jonah Philion", "Wenzheng Chen", "Or Litany", "Zan Gojcic", "Jungseock Joo ", "Ramesh Raskar", "Sanja Fidler", "Jose Alvarez"],
 		"venue": "Accepted to ICCV",
 		"date": "2023"
+		"links" : [
+           		{"type": "link", "name": "Project Page", "target": "https://nvlabs.github.io/viewpoint-robustness"},
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.05192"}
+		],
 	},
 	{
 		"id": "glossyobjects2022",
