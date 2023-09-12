@@ -14,7 +14,7 @@
 		"venue": "Accepted to ICCV",
 		"date": "2023"
 		"links" : [
-           		{"type": "link", "name": "Project Page", "target": "https://nvlabs.github.io/viewpoint-robustness"},
+            {"type": "link", "name": "Project Page", "target": "https://nvlabs.github.io/viewpoint-robustness"},
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.05192"}
 		],
 	},
