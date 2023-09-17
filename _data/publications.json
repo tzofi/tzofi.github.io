@@ -3,20 +3,23 @@
 		"id": "diser2023",
 		"title": "DISeR: Designing Imaging Systems with Reinforcement Learning",
 		"authors": ["<b>Tzofi Klinghoffer</b>*", "Kushagra Tiwary*", "Nikhil Behari", "Bhavya Agrawalla", "Ramesh Raskar"],
-		"venue": "Accepted to ICCV",
+		"venue": "ICCV",
 		"date": "2023",
+		"links" : [
+            {"type": "link", "name": "Project Page", "target": "https://tzofi.github.io/diser"}
+		],
         "notes": "* Equal Contribution"
 	},
 	{
 		"id": "viewpoints2023",
 		"title": "Towards Viewpoint Robustness in Bird's Eye View Segmentation",
 		"authors": ["<b>Tzofi Klinghoffer</b>", "Jonah Philion", "Wenzheng Chen", "Or Litany", "Zan Gojcic", "Jungseock Joo ", "Ramesh Raskar", "Sanja Fidler", "Jose Alvarez"],
-		"venue": "Accepted to ICCV",
+		"venue": "ICCV",
 		"date": "2023",
 		"links" : [
             {"type": "link", "name": "Project Page", "target": "https://nvlabs.github.io/viewpoint-robustness"},
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.05192"}
-		],
+		]
 	},
 	{
 		"id": "glossyobjects2022",
