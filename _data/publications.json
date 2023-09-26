@@ -6,7 +6,8 @@
 		"venue": "ICCV",
 		"date": "2023",
 		"links" : [
-            {"type": "link", "name": "Project Page", "target": "https://tzofi.github.io/diser"}
+            {"type": "link", "name": "Project Page", "target": "https://tzofi.github.io/diser"},
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.13851"}
 		],
         "notes": "* Equal Contribution"
 	},
