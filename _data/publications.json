@@ -7,7 +7,8 @@
 		"date": "2023",
 		"links" : [
             {"type": "link", "name": "Project Page", "target": "https://tzofi.github.io/diser"},
-			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.13851"}
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.13851"},
+            {"type": "link", "name": "Code", "target": "https://github.com/tzofi/diser"},
 		],
         "notes": "* Equal Contribution"
 	},
@@ -19,7 +20,10 @@
 		"date": "2023",
 		"links" : [
             {"type": "link", "name": "Project Page", "target": "https://nvlabs.github.io/viewpoint-robustness"},
-			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.05192"}
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.05192"},
+            {"type": "link", "name": "Code", "target": "https://github.com/NVlabs/viewpoint-robustness"},
+            {"type": "link", "name": "NVIDIA Blog", "target": "https://developer.nvidia.com/blog/using-synthetic-data-to-address-novel-viewpoints-for-autonomous-vehicle-perception/"},
+            {"type": "link", "name": "DRIVE Labs Episode", "target": "https://www.youtube.com/watch?v=SVt1UTtxbSY"},
 		]
 	},
 	{
