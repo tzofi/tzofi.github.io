@@ -1,5 +1,18 @@
 [
 	{
+		"id": "platonerf2023",
+		"title": "PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar",
+		"authors": ["<b>Tzofi Klinghoffer</b>", "Xiaoyu Xiang*", "Siddharth Somasundaram*", "Yuchen Fan", "Christian Richardt", "Ramesh Raskar", "Rakesh Ranjan"],
+		"venue": "arXiv",
+		"date": "2023",
+		"links" : [
+            {"type": "link", "name": "Project Page", "target": "https://platonerf.github.io"},
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2312.14239"},
+            {"type": "link", "name": "Code", "target": "https://github.com/facebookresearch/PlatoNeRF"}
+		],
+        "notes": "* Equal Contribution"
+	},
+	{
 		"id": "diser2023",
 		"title": "DISeR: Designing Imaging Systems with Reinforcement Learning",
 		"authors": ["<b>Tzofi Klinghoffer</b>*", "Kushagra Tiwary*", "Nikhil Behari", "Bhavya Agrawalla", "Ramesh Raskar"],
@@ -8,7 +21,7 @@
 		"links" : [
             {"type": "link", "name": "Project Page", "target": "https://tzofi.github.io/diser"},
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.13851"},
-            {"type": "link", "name": "Code", "target": "https://github.com/tzofi/diser"},
+            {"type": "link", "name": "Code", "target": "https://github.com/tzofi/diser"}
 		],
         "notes": "* Equal Contribution"
 	},
@@ -23,7 +36,7 @@
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2309.05192"},
             {"type": "link", "name": "Code", "target": "https://github.com/NVlabs/viewpoint-robustness"},
             {"type": "link", "name": "NVIDIA Blog", "target": "https://developer.nvidia.com/blog/using-synthetic-data-to-address-novel-viewpoints-for-autonomous-vehicle-perception/"},
-            {"type": "link", "name": "DRIVE Labs Episode", "target": "https://www.youtube.com/watch?v=SVt1UTtxbSY"},
+            {"type": "link", "name": "DRIVE Labs Episode", "target": "https://www.youtube.com/watch?v=SVt1UTtxbSY"}
 		]
 	},
 	{
