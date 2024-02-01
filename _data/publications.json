@@ -1,5 +1,18 @@
 [
 	{
+		"id": "platonerf2023",
+		"title": "PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar",
+		"authors": ["<b>Tzofi Klinghoffer</b>", "Xiaoyu Xiang*", "Siddharth Somasundaram*", "Yuchen Fan", "Christian Richardt", "Ramesh Raskar", "Rakesh Ranjan"],
+		"venue": "arXiv",
+		"date": "2023",
+		"links" : [
+            {"type": "link", "name": "Project Page", "target": "https://platonerf.github.io"},
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2312.14239"},
+            {"type": "link", "name": "Code", "target": "https://github.com/facebookresearch/PlatoNeRF"}
+		],
+        "notes": "* Equal Contribution"
+	},
+	{
 		"id": "diser2023",
 		"title": "DISeR: Designing Imaging Systems with Reinforcement Learning",
 		"authors": ["<b>Tzofi Klinghoffer</b>*", "Kushagra Tiwary*", "Nikhil Behari", "Bhavya Agrawalla", "Ramesh Raskar"],
