@@ -3,8 +3,8 @@
 		"id": "platonerf2023",
 		"title": "PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar",
 		"authors": ["<b>Tzofi Klinghoffer</b>", "Xiaoyu Xiang*", "Siddharth Somasundaram*", "Yuchen Fan", "Christian Richardt", "Ramesh Raskar", "Rakesh Ranjan"],
-		"venue": "arXiv",
-		"date": "2023",
+		"venue": "CVPR",
+		"date": "2024",
 		"links" : [
             {"type": "link", "name": "Project Page", "target": "https://platonerf.github.io"},
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2312.14239"},
