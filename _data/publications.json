@@ -12,7 +12,7 @@
 		"authors": ["<b>Tzofi Klinghoffer</b>", "Xiaoyu Xiang*", "Siddharth Somasundaram*", "Yuchen Fan", "Christian Richardt", "Ramesh Raskar", "Rakesh Ranjan (* Equal Contribution)"],
 		"venue": "CVPR",
 		"date": "2024",
-        "award": "Oral Presentation (~0.8% acceptance)",
+        "award": "Best Paper Award Candidate (~0.2% acceptance)",
 		"links" : [
             {"type": "link", "name": "Project Page", "target": "https://platonerf.github.io"},
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2312.14239"},
