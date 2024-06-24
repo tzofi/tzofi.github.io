@@ -16,7 +16,8 @@
 		"links" : [
             {"type": "link", "name": "Project Page", "target": "https://platonerf.github.io"},
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2312.14239"},
-            {"type": "link", "name": "Code", "target": "https://github.com/facebookresearch/PlatoNeRF"}
+            {"type": "link", "name": "Code", "target": "https://github.com/facebookresearch/PlatoNeRF"},
+	    {"type": "link", "name": "MIT News", "target": "https://news.mit.edu/2024/researchers-leverage-shadows-model-3d-scenes-blocked-objects-0618"}
 		]
 	},
 	{
