@@ -7,8 +7,7 @@
 		"date": "2024",
 		"links" : [
 			{"type": "link", "name": "Paper", "target": "https://mit-genai.pubpub.org/pub/bcfcb6lu"}
-		],
-        "notes": "* Equal Contribution"
+		]
 	},
 	{
 		"id": "platonerf2023",
