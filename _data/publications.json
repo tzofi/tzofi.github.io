@@ -3,8 +3,12 @@
 		"id": "genvi2024",
 		"title": "A Roadmap for Generative Design of Visual Intelligence",
 		"authors": ["Kushagra Tiwary, <b>Tzofi Klinghoffer*</b>", "Aaron Young*", "Siddharth Somasundaram", "Nikhil Behari", "Akshat Dave", "Brian Cheung", "Dan-Eric Nilsson", "Tomaso Poggio", "Ramesh Raskar (* Equal Contribution)"],
-		"venue": "MIT Press (coming soon!)",
-		"date": "2024"
+		"venue": "MIT Press",
+		"date": "2024",
+		"links" : [
+			{"type": "link", "name": "Paper", "target": "https://mit-genai.pubpub.org/pub/bcfcb6lu"}
+		],
+        "notes": "* Equal Contribution"
 	},
 	{
 		"id": "platonerf2023",
