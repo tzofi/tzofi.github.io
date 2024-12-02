@@ -1,8 +1,30 @@
 [
 	{
+		"id": "bls3d",
+		"title": "Blurred LiDAR for Sharper 3D: Robust Handheld 3D Scanning with Diffuse LiDAR and RGB",
+		"authors": ["Nikhil Behari", "Aaron Young", "Siddharth Somasundaram", "<b>Tzofi Klinghoffer*</b>", "Akshat Dave", "Ramesh Raskar"],
+		"venue": "arXiv",
+		"date": "2024",
+		"links" : [
+			{"type": "link", "name": "Project Page", "target": "https://nikhilbehari.github.io/bls3d-web/"},
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2411.19474"},
+			{"type": "link", "name": "Code", "target": "https://github.com/NikhilBehari/bls3d"}
+		]
+	},
+	{
+		"id": "epinaf_teaser",
+		"title": "Epi-NAF: Enhancing Neural Attenuation Fields for Limited-Angle CT with Epipolar Consistency Conditions",
+		"authors": ["Daniel Gilo", "<b>Tzofi Klinghoffer*</b>", "Or Litany"],
+		"venue": "arXiv",
+		"date": "2024",
+		"links" : [
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2411.06181v1"}
+		]
+	},
+	{
 		"id": "genvi2024",
 		"title": "A Roadmap for Generative Design of Visual Intelligence",
-		"authors": ["Kushagra Tiwary, <b>Tzofi Klinghoffer*</b>", "Aaron Young*", "Siddharth Somasundaram", "Nikhil Behari", "Akshat Dave", "Brian Cheung", "Dan-Eric Nilsson", "Tomaso Poggio", "Ramesh Raskar (* Equal Contribution)"],
+		"authors": ["Kushagra Tiwary", "<b>Tzofi Klinghoffer*</b>", "Aaron Young*", "Siddharth Somasundaram", "Nikhil Behari", "Akshat Dave", "Brian Cheung", "Dan-Eric Nilsson", "Tomaso Poggio", "Ramesh Raskar (* Equal Contribution)"],
 		"venue": "MIT Press",
 		"date": "2024",
 		"links" : [
