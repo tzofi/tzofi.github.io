@@ -2,7 +2,7 @@
 	{
 		"id": "bls3d",
 		"title": "Blurred LiDAR for Sharper 3D: Robust Handheld 3D Scanning with Diffuse LiDAR and RGB",
-		"authors": ["Nikhil Behari", "Aaron Young", "Siddharth Somasundaram", "<b>Tzofi Klinghoffer*</b>", "Akshat Dave", "Ramesh Raskar"],
+		"authors": ["Nikhil Behari", "Aaron Young", "Siddharth Somasundaram", "<b>Tzofi Klinghoffer</b>", "Akshat Dave", "Ramesh Raskar"],
 		"venue": "arXiv",
 		"date": "2024",
 		"links" : [
@@ -14,7 +14,7 @@
 	{
 		"id": "epinaf_teaser",
 		"title": "Epi-NAF: Enhancing Neural Attenuation Fields for Limited-Angle CT with Epipolar Consistency Conditions",
-		"authors": ["Daniel Gilo", "<b>Tzofi Klinghoffer*</b>", "Or Litany"],
+		"authors": ["Daniel Gilo", "<b>Tzofi Klinghoffer</b>", "Or Litany"],
 		"venue": "arXiv",
 		"date": "2024",
 		"links" : [
