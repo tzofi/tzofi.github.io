@@ -15,8 +15,8 @@
 		"id": "epinaf_teaser",
 		"title": "Epi-NAF: Enhancing Neural Attenuation Fields for Limited-Angle CT with Epipolar Consistency Conditions",
 		"authors": ["Daniel Gilo", "<b>Tzofi Klinghoffer</b>", "Or Litany"],
-		"venue": "arXiv",
-		"date": "2024",
+		"venue": "ISBI",
+		"date": "2025",
 		"links" : [
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2411.06181v1"}
 		]
