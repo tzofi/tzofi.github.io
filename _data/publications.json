@@ -19,6 +19,18 @@
 		"date": "2025"
 	},
 	{
+		"id": "bls3d",
+		"title": "Blurred LiDAR for Sharper 3D: Robust Handheld 3D Scanning with Diffuse LiDAR and RGB",
+		"authors": ["Nikhil Behari", "Aaron Young", "Siddharth Somasundaram", "<b>Tzofi Klinghoffer</b>", "Akshat Dave", "Ramesh Raskar"],
+		"venue": "CVPR",
+		"date": "2025",
+		"links" : [
+			{"type": "link", "name": "Project Page", "target": "https://nikhilbehari.github.io/bls3d-web/"},
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2411.19474"},
+			{"type": "link", "name": "Code", "target": "https://github.com/NikhilBehari/bls3d"}
+		]
+	},
+	{
 		"id": "epinaf_teaser",
 		"title": "Epi-NAF: Enhancing Neural Attenuation Fields for Limited-Angle CT with Epipolar Consistency Conditions",
 		"authors": ["Daniel Gilo", "<b>Tzofi Klinghoffer</b>", "Or Litany"],
@@ -26,18 +38,6 @@
 		"date": "2025",
 		"links" : [
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2411.06181v1"}
-		]
-	},
-	{
-		"id": "bls3d",
-		"title": "Blurred LiDAR for Sharper 3D: Robust Handheld 3D Scanning with Diffuse LiDAR and RGB",
-		"authors": ["Nikhil Behari", "Aaron Young", "Siddharth Somasundaram", "<b>Tzofi Klinghoffer</b>", "Akshat Dave", "Ramesh Raskar"],
-		"venue": "arXiv",
-		"date": "2024",
-		"links" : [
-			{"type": "link", "name": "Project Page", "target": "https://nikhilbehari.github.io/bls3d-web/"},
-			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2411.19474"},
-			{"type": "link", "name": "Code", "target": "https://github.com/NikhilBehari/bls3d"}
 		]
 	},
 	{
