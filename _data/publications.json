@@ -36,6 +36,7 @@
 		"authors": ["Daniel Gilo", "<b>Tzofi Klinghoffer</b>", "Or Litany"],
 		"venue": "ISBI",
 		"date": "2025",
+		"award": "Oral Presentation",
 		"links" : [
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2411.06181v1"}
 		]
