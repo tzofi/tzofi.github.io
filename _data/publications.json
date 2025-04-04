@@ -24,6 +24,7 @@
 		"authors": ["Nikhil Behari", "Aaron Young", "Siddharth Somasundaram", "<b>Tzofi Klinghoffer</b>", "Akshat Dave", "Ramesh Raskar"],
 		"venue": "CVPR",
 		"date": "2025",
+		"award": "Highlight",
 		"links" : [
 			{"type": "link", "name": "Project Page", "target": "https://nikhilbehari.github.io/bls3d-web/"},
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2411.19474"},
