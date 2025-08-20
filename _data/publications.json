@@ -1,5 +1,12 @@
 [
 	{
+		"id": "sb3d",
+		"title": "Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light",
+		"authors": ["<b>Tzofi Klinghoffer</b>", "Siddharth Somasundaram*", "Xiaoyu Xiang*", "Yuchen Fan", "Christian Richardt", "Akshat Dave", "Ramesh Raskar", "Rakesh Ranjan (* Equal Contribution)"],
+		"venue": "SIGGRAPH Asia",
+		"date": "2025"
+	},
+	{
 		"id": "whatifeye",
 		"title": "What if Eye...? Computationally Recreating Vision Evolution",
 		"authors": ["Kushagra Tiwary*", "Aaron Young*", "Zaid Tasneem", "<b>Tzofi Klinghoffer</b>", "Akshat Dave", "Tomaso Poggio", "Dan-Eric Nilsson", "Brian Cheung", "Ramesh Raskar (* Equal Contribution)"],
@@ -10,13 +17,6 @@
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/abs/2501.15001"},
 			{"type": "link", "name": "Code", "target": "https://github.com/cambrian-org/ACI"}
         ]
-	},
-	{
-		"id": "sb3d",
-		"title": "Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Two-Bounce Lidar",
-		"authors": ["<b>Tzofi Klinghoffer</b>", "Siddharth Somasundaram*", "Xiaoyu Xiang*", "Yuchen Fan", "Christian Richardt", "Akshat Dave", "Ramesh Raskar", "Rakesh Ranjan (* Equal Contribution)"],
-		"venue": "Coming Soon!",
-		"date": "2025"
 	},
 	{
 		"id": "bls3d",
