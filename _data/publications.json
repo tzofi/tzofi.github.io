@@ -4,7 +4,10 @@
 		"title": "Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light",
 		"authors": ["<b>Tzofi Klinghoffer</b>", "Siddharth Somasundaram*", "Xiaoyu Xiang*", "Yuchen Fan", "Christian Richardt", "Akshat Dave", "Ramesh Raskar", "Rakesh Ranjan (* Equal Contribution)"],
 		"venue": "SIGGRAPH Asia",
-		"date": "2025"
+		"date": "2025",
+		"links" : [
+			{"type": "link", "name": "Project Page", "target": "https://shoot-bounce-3d.github.io/"}
+        ]
 	},
 	{
 		"id": "whatifeye",
