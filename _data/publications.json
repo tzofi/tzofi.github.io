@@ -1,5 +1,15 @@
 [
 	{
+		"id": "implicitlidar2025",
+		"title": "Task-Driven Implicit Representations for Automated Design of LiDAR Systems",
+		"authors": ["Nikhil Behari", "Aaron Young", "<b>Tzofi Klinghoffer</b>", "Akshat Dave", "Ramesh Raskar"],
+		"venue": "arXiv",
+		"date": "2025",
+		"links" : [
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/pdf/2505.22344"},
+        ]
+	},
+	{
 		"id": "radar2shape",
 		"title": "Radar2Shape: 3D Shape Reconstruction from High-Frequency Radar using Multiresolution Signed Distance Functions",
 		"authors": ["Neel Sortur", "Justin Goodwin", "Purvik Patel", "Luis Enrique Martinez Jr", "<b>Tzofi Klinghoffer</b>", "Rajmonda Caceres", "Robin Walters"],
