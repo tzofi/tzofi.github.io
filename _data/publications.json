@@ -1,5 +1,15 @@
 [
 	{
+		"id": "radar2shape",
+		"title": "Radar2Shape: 3D Shape Reconstruction from High-Frequency Radar using Multiresolution Signed Distance Functions",
+		"authors": ["Neel Sortur", "Justin Goodwin", "Purvik Patel", "Luis Enrique Martinez Jr", "<b>Tzofi Klinghoffer</b>", "Rajmonda Caceres", "Robin Walters"],
+		"venue": "arXiv",
+		"date": "2025",
+		"links" : [
+			{"type": "link", "name": "Paper", "target": "https://arxiv.org/pdf/2511.17484"},
+        ]
+	},
+	{
 		"id": "sb3d",
 		"title": "Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light",
 		"authors": ["<b>Tzofi Klinghoffer</b>", "Siddharth Somasundaram*", "Xiaoyu Xiang*", "Yuchen Fan", "Christian Richardt", "Akshat Dave", "Ramesh Raskar", "Rakesh Ranjan (* Equal Contribution)"],
