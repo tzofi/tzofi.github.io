@@ -26,7 +26,7 @@
 		"venue": "SIGGRAPH Asia",
 		"date": "2025",
 		"links" : [
-			{"type": "link", "name": "Project Page", "target": "https://shoot-bounce-3d.github.io/"}
+			{"type": "link", "name": "Project Page", "target": "https://shoot-bounce-3d.github.io/"},
 			{"type": "link", "name": "Paper", "target": "http://arxiv.org/abs/2512.06080"},
 			{"type": "link", "name": "Code", "target": "https://github.com/facebookresearch/shoot-bounce-3d"}
         ]
