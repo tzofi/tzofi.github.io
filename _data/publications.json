@@ -35,7 +35,7 @@
 		"id": "whatifeye",
 		"title": "What if Eye...? Computationally Recreating Vision Evolution",
 		"authors": ["Kushagra Tiwary*", "Aaron Young*", "Zaid Tasneem", "<b>Tzofi Klinghoffer</b>", "Akshat Dave", "Tomaso Poggio", "Dan-Eric Nilsson", "Brian Cheung", "Ramesh Raskar (* Equal Contribution)"],
-		"venue": "arXiv",
+		"venue": "Science Advances",
 		"date": "2025",
 		"links" : [
 			{"type": "link", "name": "Project Page", "target": "https://eyes.mit.edu/"},
