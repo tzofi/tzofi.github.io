@@ -3,8 +3,8 @@
 		"id": "implicitlidar2025",
 		"title": "Task-Driven Implicit Representations for Automated Design of LiDAR Systems",
 		"authors": ["Nikhil Behari", "Aaron Young", "<b>Tzofi Klinghoffer</b>", "Akshat Dave", "Ramesh Raskar"],
-		"venue": "arXiv",
-		"date": "2025",
+		"venue": "CVPR",
+		"date": "2026",
 		"links" : [
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/pdf/2505.22344"},
         ]
