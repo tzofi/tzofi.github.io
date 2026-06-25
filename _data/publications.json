@@ -5,8 +5,11 @@
 		"authors": ["Nikhil Behari", "Aaron Young", "<b>Tzofi Klinghoffer</b>", "Akshat Dave", "Ramesh Raskar"],
 		"venue": "CVPR",
 		"date": "2026",
+		"award": "Highlight",
 		"links" : [
+			{"type": "link", "name": "Project Page", "target": "https://nikhilbehari.com/implicitlidar/"},
 			{"type": "link", "name": "Paper", "target": "https://arxiv.org/pdf/2505.22344"},
+			{"type": "link", "name": "Code", "target": "https://github.com/NikhilBehari/implicitlidar"}
         ]
 	},
 	{
