@@ -1,29 +1,29 @@
+/* Base ---------------------------------------------------------*/
+
 body {
-	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 15px;
+	font-family: 'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.55;
+	color: #222;
+	background: #fff;
 }
 
-html,body{
-    overflow-x: hidden;
-}
+html, body { overflow-x: hidden; }
 
-.post {
-	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 18px;
-}
+a { color: #1f5a9e; }
+a:hover, a:focus { color: #123d6e; }
 
-a, a:hover {
-	color: #3355BB;
-}
+p { margin-bottom: 0.9em; }
 
-/*---------------------------------------------------------------*/
+/* Top bar ------------------------------------------------------*/
 
 #mainnav {
 	background-color: #3277a8;
 }
 
 .navbar-brand {
-	font-size: 3em;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 45px;
 	line-height: 0.6em;
 	font-variant: small-caps;
 }
@@ -34,15 +34,10 @@ a, a:hover {
 
 .navbar-brand a:hover {
 	color: #FFFFFF;
-    text-decoration: none;
+	text-decoration: none;
 }
 
-/*---------------------------------------------------------------*/
-
-.sidebar {
-  min-height: 635px;
-  height: 635px;
-}
+/* Sidebar ------------------------------------------------------*/
 
 .sidebaritem {
 	margin-bottom: 15px;
@@ -55,106 +50,131 @@ a, a:hover {
 	margin-bottom: 2px;
 }
 
-/*---------------------------------------------------------------*/
+/* Main sections ------------------------------------------------*/
 
-#officehours {
-	margin-top: 8px;
-	margin-bottom: 8px;
-}
-
-#prospectives {
-	margin-top: 8px;
-	margin-bottom: 8px;
-}
-
-/*---------------------------------------------------------------*/
-
-.teachingitem {
-	margin-bottom: 6px;
-}
-
-.teachingterm {
-	font-weight: bold;
-}
-
-.teachinglink {
-	font-weight: bold;
-}
-
-/*---------------------------------------------------------------*/
-
-.travelitem {
-	margin-bottom: 6px;
-}
-
-.oldtravelitem {
-	color: #AAAAAA;
-}
-
-.traveldate {
-	font-weight: bold;
-}
-
-.travelloc {
-	/*font-weight: bold;*/
-}
-
-.travelevent {
-	/*font-style: italic;*/
-}
-
-/*---------------------------------------------------------------*/
-
-.resourcelink {
-	font-weight: bold;
-}
-
-/*---------------------------------------------------------------*/
-
-.mainitem {
-	margin-bottom: 1.25em;
-}
+.mainitem { margin-bottom: 40px; }
 
 .mainheader {
-	font-weight: bold;
+	font-weight: 600;
 	font-variant: small-caps;
 	font-size: 25px;
+	padding-bottom: 4px;
+	margin-bottom: 14px;
+	border-bottom: 1px solid #e3e3e3;
+}
+
+.mainheader .headernote {
+	float: right;
+	font-variant: normal;
+	font-weight: 400;
+	font-size: 15px;
+	color: #666;
+	padding-top: 8px;
+}
+
+#about ol { padding-left: 22px; margin-bottom: 0.9em; }
+#about ol li { margin-bottom: 4px; }
+#about ul.directions { padding-left: 22px; margin-bottom: 0.9em; }
+#about ul.directions li { margin-bottom: 4px; }
+
+.overview {
+	margin: 18px 0 22px;
+}
+
+.overview img { width: 100%; height: auto; }
+
+.jobmarket {
+	margin-top: 10px;
+	display: inline-block;
+	max-width: 100%;
+	background: #eef3f8;
+	border-radius: 3px;
+	padding: 10px 14px;
+	font-weight: 600;
+}
+
+/* News ---------------------------------------------------------*/
+
+.newsitem { margin-bottom: 6px; }
+
+.newsdate { color: #666; white-space: nowrap; }
+
+.morelink { display: inline-block; margin-top: 6px; }
+
+/* Publications -------------------------------------------------*/
+
+.pubfilter a { cursor: pointer; }
+.pubfilter a.active { color: #222; font-weight: 600; text-decoration: none; cursor: default; }
+
+body.selected-only .pub:not(.selected) { display: none; }
+
+.pub {
+	padding-bottom: 22px;
+	display: flex;
+	align-items: flex-start;
+}
+
+.pub .pubimagesection, .pub .pubtextsection { float: none; }
+
+.pubimage {
+	width: 100%;
+	aspect-ratio: 4 / 3;
+	object-fit: contain;
+	background: #fff;
+	border: 1px solid #eee;
+}
+
+.pubtitle { font-weight: 600; line-height: 1.35; margin-bottom: 3px; }
+.pubtitle a { color: #1a1a1a; }
+.pubtitle a:hover { color: #1f5a9e; }
+
+.pubauthors { color: #444; }
+.pubauthors b { color: #111; font-weight: 600; }
+
+.pubvenue { font-style: italic; }
+
+.pubaward { color: #a33a2b; font-style: normal; }
+
+.publinks a { margin-right: 14px; white-space: nowrap; }
+
+.pubnote { color: #666; font-size: 14px; margin-bottom: 18px; }
+
+/* Lists --------------------------------------------------------*/
+
+.plainlist { list-style: none; padding-left: 0; margin: 0; }
+
+.plainlist li {
+	display: flex;
+	gap: 16px;
 	margin-bottom: 6px;
 }
 
-/*---------------------------------------------------------------*/
-
-.newsitem {
-	margin-bottom: 8px;
+.plainlist .when {
+	flex: 0 0 auto;
+	min-width: 70px;
+	color: #666;
+	white-space: nowrap;
 }
 
-.newsdate {
-	font-weight: bold;
+.subhead { font-weight: 600; margin: 14px 0 6px; }
+.subhead:first-of-type { margin-top: 0; }
+
+.video { margin-bottom: 18px; max-width: 480px; }
+.video iframe { width: 100%; aspect-ratio: 16 / 9; height: auto; border: 0; }
+
+.footer { color: #888; font-size: 13px; margin: 20px 0 40px; }
+
+/* Small screens ------------------------------------------------*/
+
+@media (max-width: 991px) {
+	#headshot img { max-width: 220px; }
 }
 
-/*---------------------------------------------------------------*/
-
-.pub {
-	padding-bottom: 8px;
+@media (max-width: 600px) {
+	.pub { display: block; }
+	.pub .pubimagesection { width: 100%; max-width: 320px; margin-bottom: 8px; padding-left: 15px; }
+	.pub .pubtextsection { width: 100%; padding-left: 15px; }
 }
 
-.pubtextsection {
-	padding-left: 0px;
-}
-
-.pubtitle {
-	font-weight: bold;
-}
-
-.pubvenue {
-	font-style: italic;
-}
-
-.pubaward {
-	display: inline-block;
-	margin-top: 5px;
-	background-color: #112266;
-	font-size: 13px;
-}
-
-/*---------------------------------------------------------------*/
+/* Bootstrap clearfix pseudo-elements break flex layouts */
+.pub:before, .pub:after { display: none; }
